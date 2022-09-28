@@ -27,7 +27,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
         <version>3.0.0-M7</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>C:\Users\reddy\eclipse-workspace\Newmaven\testng.xml</suiteXmlFile>
+            <suiteXmlFile>testng.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
